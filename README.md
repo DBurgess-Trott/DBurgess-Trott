@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DBurgess-Trott
-- 👀 I’m interested in healthcare data research and analysis.
+- 👀 I’m interested in psychology and healthcare work for a Research Analyst.
 - 🌱 I’m currently developing with iO-Sphere immersive Data Analytics Programme.
-- 💞️ I’m looking to collaborate on any and all heathcare research data projects.
+- 💞️ I’m looking to collaborate on any and all research data projects.
 - 📫 Reach me at dburgess-trott0107@outlook.com.
 
 <!---
